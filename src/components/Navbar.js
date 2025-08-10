@@ -2,7 +2,7 @@
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <h1 className="logo">Elite Auto Shine</h1>
+      <h1 className="logo">Elite</h1>
       
       <div className="nav-links">
         <a href="#home" className="nav-link">Home</a>
